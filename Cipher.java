@@ -4,8 +4,6 @@ import java.util.Arrays;
 
 /**
  * Реализует шифрование/дешифрование по ГОСТ 28147-89
- *
- * @author Stepan Tsymbal
  */
 public class Cipher {
 
