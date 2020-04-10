@@ -1,8 +1,6 @@
 package com.option.model;
 /**
  * Набор таблиц замен
- *
- * @author Stepan Tsymbal
  */
 public class CipherParams {
 
